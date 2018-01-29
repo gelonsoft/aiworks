@@ -1,0 +1,1 @@
+python label_image.py --graph=tf_files/retrained_graph.pb  --image=tests\new_apricot\2.jpg
